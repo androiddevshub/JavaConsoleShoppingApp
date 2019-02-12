@@ -8,7 +8,7 @@ To run this application you have to install Java.
 
 1. Download the DMG file from link given below.
 
-https://javadl.oracle.com/webapps/download/AutoDL?BundleId=236879_42970487e3af4f5aa5bca3f542482c60
+   https://javadl.oracle.com/webapps/download/AutoDL?BundleId=236879_42970487e3af4f5aa5bca3f542482c60
 
 2. Open the DMG file to launch it.
 
@@ -20,7 +20,7 @@ https://javadl.oracle.com/webapps/download/AutoDL?BundleId=236879_42970487e3af4f
 
 To prefer installation of Java watch this video.
 
-https://www.youtube.com/watch?v=y6szNJ4rMZ0
+   https://www.youtube.com/watch?v=y6szNJ4rMZ0
 
 After you install java.
 
